@@ -1,7 +1,7 @@
 # hello-world
 Repository for the Hello-World project.
 
-I wil use this project to hold a copy of my Jupyter notebooks.
+I will use this project to hold a copy of my Jupyter notebooks.
 
 	plotting.ipynb	
 	lambda-functions.ipynb
